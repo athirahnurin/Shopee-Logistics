@@ -1,7 +1,7 @@
 # Shopee Logistics
  Shopee Competition #5: Logistics (Data Analytics) 
 
-Logistic is one of the most important factor affecting the customers' satisfaction. During current COVID situation, we experience the impact logistic disruption has on all of us.
+Logistic is one of the most important factors affecting the customers' satisfaction. During current COVID situation, we experience the impact logistic disruption has on all of us.
 
 As part of the Shopee Code League competition, Shopee set a challenge for us to investigate their logistic provider's quality.
 Shopee defined a good quality logistic provider by monitoring the days taken for a delivery. Logistic providers signed Service Level Agreements (SLA) with Shopee and orders that are fulfilled later than the stated duration in SLA is deemed late. Logistic providers will also be served penalty to ensure they uphold the quality of Shopee.
