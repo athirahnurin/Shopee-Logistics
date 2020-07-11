@@ -8,5 +8,5 @@ Shopee defined a good quality logistic provider by monitoring the days taken for
 
 We are fortunate to came in 8th in the competition out of the 547 entries.
 
-For report and codes: Logistic.ipynb
+For report and codes: Logistic.ipynb\
 For competition details and datasets: https://www.kaggle.com/c/logistics-shopee-code-league/overview
